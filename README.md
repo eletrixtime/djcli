@@ -1,0 +1,2 @@
+# djcli
+DJ-AppStore CLI

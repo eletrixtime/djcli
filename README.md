@@ -6,4 +6,4 @@ DJ-AppStore CLI (Command Line Interface) is a command line interface for DJ-AppS
 
 Under the CC BY 4.0 License
 
-All rights to djprostudio
+All rights to DJOPRO
